@@ -1,0 +1,12 @@
+```toml
+[theme]
+primaryColor = "#D4AF37"
+backgroundColor = "#0A1929"
+secondaryBackgroundColor = "#1A2942"
+textColor = "#FFFFFF"
+font = "sans serif"
+
+[server]
+maxUploadSize = 200
+enableCORS = false
+enableXsrfProtection = true
